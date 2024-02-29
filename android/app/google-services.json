@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529322159044",
+    "project_id": "sekawans-57cde",
+    "storage_bucket": "sekawans-57cde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529322159044:android:c7c475b5c0132a9f39d291",
+        "android_client_info": {
+          "package_name": "com.example.sekawans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnVDSwHHxQRCkR3j-CtiPEcVPmcaVdsx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
